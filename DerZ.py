@@ -38,7 +38,7 @@ os.system("clear")
               time.sleep(0.002)
               
 
-type("""\033[93mWoy Jagoan Lu Ada Alasan Apa Ha? Ddos Server Orang Kalo Server Nya Ada Salah Bicarakan Baik Baik Lah Jangan Langsung Ddos Aja 
+type("""\033[93mWoy Jagoan Lu, Ha?
 
 \033[91m Wahai Engkau Manusia Jangan Main Main Ddos Aja Bicarakan Lah Baik Baik Manusia
 
